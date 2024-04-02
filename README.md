@@ -1,4 +1,4 @@
-# Getting Started wwith TO-DO- Application
+# Getting Started with TO-DO- Application
 
 This project mainly focus on the concept of react.js, redux toolkit, tailwind-css.
 
